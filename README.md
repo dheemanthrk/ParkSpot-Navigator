@@ -1,12 +1,12 @@
-# ParkSpace
+# ParkSpot Navigator
 
 <img style="width: 120px" src="app\src\main\res\drawable\logo.png" align="right" />
 
-ParkSpace offers a sophisticated platform that harnesses GPS technology and real-time data to tackle the challenges of urban parking, providing seamless, affordable, and eco-friendly solutions. With features like nearby parking spot listings, advanced search and filtering options, booking history, and real-time navigation, ParkSpace caters to commuters, residents, businesses, and tourists alike, prioritizing convenience, accessibility, and sustainability in urban mobility. From stress-free parking options to optimized space utilization for businesses, ParkSpace endeavors to elevate the overall parking experience while fostering community engagement and knowledge sharing among users.
+ParkSpot Navigator offers a sophisticated platform that harnesses GPS technology and real-time data to tackle the challenges of urban parking, providing seamless, affordable, and eco-friendly solutions. With features like nearby parking spot listings, advanced search and filtering options, booking history, and real-time navigation, ParkSpace caters to commuters, residents, businesses, and tourists alike, prioritizing convenience, accessibility, and sustainability in urban mobility. From stress-free parking options to optimized space utilization for businesses, ParkSpace endeavors to elevate the overall parking experience while fostering community engagement and knowledge sharing among users.
 
 ## Tech Stack
 
-ParkSpace was built using the following technologies:
+ParkSpot Navigator was built using the following technologies:
 
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-1.0.0-blue.svg)](https://developer.android.com/jetpack/compose)
 [![Dagger HILT](https://img.shields.io/badge/Dagger_HILT-2.51-green.svg)](https://dagger.dev/hilt/)
@@ -26,7 +26,7 @@ ParkSpace was built using the following technologies:
 | ![Timer Screen](app/public/screenshots/TimerScreen.png){ width=300px } <br> Timer Screen | ![User Profile Screen](app/public/screenshots/UserProfileScreen.png){ width=300px } <br> User Profile Screen | ![Notifications Screen](app/public/screenshots/NotificationsScreen.png){ width=300px } <br> Notifications Screen |
 
 
-## ParkSpace - Build Instructions
+## ParkSpot Navigator - Build Instructions
 
 ### Cloning the Repository
 
@@ -127,13 +127,4 @@ The following dependencies are used in the ParkSpace project:
 
 ## Authors & Acknowledgements
 
-- Dheemanth Rajendra Prasad Kumawat (B00962845)
-- Dhruv Kapoor (B00937833)
-- Kainat Khan (B00937232)
-- Parth Modi (B00962830)
-- Rakshit Ranpariya (B00946421)
-- Rushikumar Patel (B00948619)
-- Sameer Amesara (B00961209)
-- Smit Patel (B00963930)
-- Sneh Patel (B00968316)
-- Tathya Kapadia (B00968181)
+- Dheemanth Rajendra Prasad Kumawat
