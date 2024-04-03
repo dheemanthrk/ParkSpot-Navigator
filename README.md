@@ -2,7 +2,7 @@
 
 <img style="width: 120px" src="app\src\main\res\drawable\logo.png" align="right" />
 
-ParkSpot Navigator offers a sophisticated platform that harnesses GPS technology and real-time data to tackle the challenges of urban parking, providing seamless, affordable, and eco-friendly solutions. With features like nearby parking spot listings, advanced search and filtering options, booking history, and real-time navigation, ParkSpace caters to commuters, residents, businesses, and tourists alike, prioritizing convenience, accessibility, and sustainability in urban mobility. From stress-free parking options to optimized space utilization for businesses, ParkSpace endeavors to elevate the overall parking experience while fostering community engagement and knowledge sharing among users.
+ParkSpot Navigator offers a sophisticated platform that harnesses GPS technology and real-time data to tackle the challenges of urban parking, providing seamless, affordable, and eco-friendly solutions. With features like nearby parking spot listings, advanced search and filtering options, booking history, and real-time navigation, ParkSpot Navigator caters to commuters, residents, businesses, and tourists alike, prioritizing convenience, accessibility, and sustainability in urban mobility. From stress-free parking options to optimized space utilization for businesses, ParkSpot Navigator endeavors to elevate the overall parking experience while fostering community engagement and knowledge sharing among users.
 
 ## Tech Stack
 
