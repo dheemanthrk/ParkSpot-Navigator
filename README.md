@@ -15,7 +15,7 @@ ParkSpot Navigator was built using the following technologies:
 [![Google Maps SDK](https://img.shields.io/badge/Google_Maps_SDK-3.1.0-brightgreen.svg)](https://developers.google.com/maps/documentation/android-sdk/overview)
 [![Firebase](https://img.shields.io/badge/Firebase-20.5.2-yellow.svg)](https://firebase.google.com/)
 
-## Application Sneak Peek
+## Application
 
 
 |   |   |   |
